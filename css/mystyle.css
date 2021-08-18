@@ -6,6 +6,21 @@
     color: #8DC63F;
 }
 
+#vcolor2 {
+    color: #92278f;
+}
+
+#vcolor3 {
+    color: #818285;
+}
+
 #vh1 {
     font-family:'Montserrat', sans-serif;
+}
+
+#footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
